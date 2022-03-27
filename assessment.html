@@ -103,9 +103,9 @@
 
       <h2>FORM</h2>
       <form action="assessment.html">
-        First:
+        <label>First:</label>
         <input type="text" name="firstName" placeholder="First Name">
-        Last:
+        <label>Last:</label>
         <input type="text" name="lastName" placeholder="Last Name">
         <br><br>
         <label>Favorite Sport:</label>
@@ -118,11 +118,25 @@
           <option>option 5</option>
         </select>
         <br><br>
-        I have:
+        <label>I have:</label>
+          <input type="checkbox" id="Performance1" name="Performance1" value="Attended">
+          <label for="Performance1"> Attended</label>
+          <input type="checkbox" id="Performance2" name="Performance2" value="Played">
+          <label for="Performance2"> Played</label>
+          <input type="checkbox" id="Performance3" name="Performance3" value="Coached">
+          <label for="Performance3"> Coached</label>
+          <input type="checkbox" id="Performance3" name="Performance3" value="Bet on">
+          <label for="Performance3"> Bet on</label>
+        <br>
+        <label>this sport.</label>
         <br><br>
-        this sport.
-        <br><br>
-        For this sport I prefer the:
+        <label>For this sport I prefer the:</label>
+          <input type="radio" id="Amateur" name="preference" value="Amateur">
+          <label for="Amateur">Amateur</label>
+          <input type="radio" id="College" name="preference" value="College">
+          <label for="College">College</label>
+          <input type="radio" id="Professional" name="preference" value="Professional">
+          <label for="Professional">Professional</label>
         <br><br>
         <input type="submit" value="Submit Query">
 
