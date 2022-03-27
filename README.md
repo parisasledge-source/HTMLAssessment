@@ -25,9 +25,9 @@ There is a form element under the section header "FORM". This form includes inpu
 ### Lesson learned and Technologies used
 1. Using 'blockquote' tag to change a regular paragraph to a block quote and also using 'em' tag to change it to an emphasized paragraph.
 2. Creating a table, using both colspan and rowspan attributes.
-3. Instructing header, footer, and caption for the table.
+3. Creating header, footer, and caption for the table.
 4. Using 'ol' (for ordered) and 'ul' (or bulleted) to create lists and nested lists.
-5. Using image tags for displaying the logos and understanding that 'image' is a type of element which does not require a closing tag.
-6. use 'a' tag to include a link in the page. The attribute, href of this tag, link the team name to the team home page.
+5. Using 'image' tags for displaying the logos and understanding that 'image' is a type of element which does not require a closing tag.
+6. Using 'a' tag to include a link in the page. The attribute, href of this tag, links the team name to the team home page.
 7. Data Inputs of the 'form' element for user inputs (using 'input' tag), including text for names, checkboxes, radio buttons and "Submit Query" submit button.
 8. Using 'br' tags for basic formatting.
