@@ -19,7 +19,7 @@ There is a nested list for each of the game player teams. Therefore, there are t
 There is a form element under the section header "FORM". This form includes input text fields for first name and last name. It also has a drop-down menu that allows the user to select their favorite sport from a predefined list. The form also has checkboxes indicating whether they have ever personally played, attended, coached, or bet on this sport. The last part is the radio button group indicating whether they prefer the amateur, college, or professional version of the game. And finally, there is a submit button with the label "Submit Query" at the end of the form.
 
 ### Lesson learned and Technologies used
-1. Using '<blockquote>' tag to changing a regular paragraph to a block quote and also using <em> tag to change it to an emphasized paragraph.
+1. Using 'blockquote' tag to changing a regular paragraph to a block quote and also using <em> tag to change it to an emphasized paragraph.
 2. Creating a table, using both colspan and rowspan attributes.
 3. Instructing header, footer, and caption for the table.
 4. Using <ol> (for ordered) and <ul> (or bulleted) to create lists and nested lists.
